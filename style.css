@@ -1,4 +1,4 @@
-body{
+ body{
  margin:0; 
 }
 #body{
@@ -7,20 +7,20 @@ body{
 header ul{
   list-style-type:none;
   overfloat:hidden;
-  background-color:gray;
+  background-color: gray;
 }
 header li{
   float:left;
 }
 header li a{
   padding:14px;
-  color:white;
+  color: white;
   text-decoration:none;
 }
 header li a:hover{
-  background-color:green;
+  background-color: green;
 }
 footer{
-  background-color:gray;
-  color:white;
+  background-color: gray;
+  color: white;
 }
