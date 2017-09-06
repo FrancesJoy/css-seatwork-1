@@ -1,26 +1,75 @@
- body{
- margin:0; 
+body{
+
+  margin:0;
+
 }
-#body{
-  margin:10px;
+
+#body {
+
+  margin: 1px;
+  
+  font-family: verdana;
+
+  color: #6e2c00;
+
+  background-color:#FFA07A;
+
+   background-image: url("flower3.jpg");
+
+   background-repeat: stretch;
+
+   background-position: center;
+   
+   background-attachment: fixed;
+
+   background-size: 524px 684x;
+
+    border: 0px solid white;
+
+    outline-style: double;
+
+    outline-color: salmon;
+
 }
+
+
+
 header ul{
-  list-style-type:none;
-  overflow:hidden;
-  background-color: gray;
+
+  list-style-type: none;
+
+  overflow: hidden;
+
+  background-color: #f8c471;
+
 }
+
 header li{
-  float:left;
+
+  float: left;
+
 }
+
 header li a{
+
   padding:14px;
-  color: white;
+
+  color: #6e2c00;
+
   text-decoration:none;
+
 }
+
 header li a:hover{
-  background-color: green;
+
+  background-color:#f7dc6f;
+
 }
+
 footer{
-  background-color: gray;
-  color: white;
+
+  background-color:#f8c471;
+
+  color: #6e2c00;
+
 }
